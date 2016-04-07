@@ -11,6 +11,7 @@ namespace test_pr
         static void Main(string[] args)
         {
             //sssss
+            //cos nowego
         }
     }
 }
